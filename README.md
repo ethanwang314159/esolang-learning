@@ -23,3 +23,4 @@ pip install whitespace
 ## BrainF*ck 
 Easy to understand using [this excellent tutorial](https://saketupadhyay.medium.com/how-to-code-in-brainf-ck-without-losing-your-mind-6a8fd67b36b4).  
 Ran in terminal using [bf-cli](https://github.com/aapzu/bf-cli).  
+More learning using [Basics of BF](https://gist.github.com/roachhd/dce54bec8ba55fb17d3a)
