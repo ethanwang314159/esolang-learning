@@ -1,0 +1,1 @@
++[>+.<+] while first cell > 0 go to next cell add 1 print go back add 1 (to stop infinite printing)
