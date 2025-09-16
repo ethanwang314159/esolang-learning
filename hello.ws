@@ -1,13 +1,13 @@
-S S S T	S S T	S S S L
+S S S T	S S T	S S S L-(PUSH-H)
 T	L
-S S S S S T	T	S S T	S T	L
+S S S S S T	T	S S T	S T	L-(PUSH-e)
 T	L
-S S S S S T	T	S T	T	S S L
+S S S S S T	T	S T	T	S S L-(PUSH-l)
 T	L
-S S S S S T	T	S T	T	S S L
+S S S S S T	T	S T	T	S S L-(PUSH-l)
 T	L
-S S S S S T	T	S T	T	T	T	L
+S S S S S T	T	S T	T	T	T	L-(PUSH-o)
 T	L
-S S L
+S S L-(BROIDK)
 L
-L
+L-(END-SCRIPT)
