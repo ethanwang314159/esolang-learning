@@ -34,11 +34,17 @@ X-Y 0 1st
 
 MULTIPLICATION
 
-X Y 1st
-X*Y 0 1st
+X   Y 0 0 1st
+X*Y 0 0 0 1st
 ,>,< save input to 1 and 2
-[->[->+>+<<]>>[-<<+>>]<<<] HOLY COMPLEXITY jk you just decrease go right copy value then repeat
->>.
+[->[->+>+<<]>>[-<<+>>]<<<] HOLY COMPLEXITY jk you just decrease go right copy value then repeat but its really confusing
+
+BETTER MULTIPLICATION
+
+X Y 0 0   1st
+0 X 0 X*Y 1st
+,>,<
+[>[->+>+<<]>[-<+>]<<-] smart things check tests/multiplication.bf for more info
 
 DIVISION
 
@@ -51,5 +57,5 @@ NOTE INFINITE LOOP FOR SOME Y IF X IS NOT DIVISIBLE
 
 CHR()
 
-oh shit
+oh crap
 
