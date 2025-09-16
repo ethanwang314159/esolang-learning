@@ -42,8 +42,14 @@ X*Y 0 1st
 
 DIVISION
 
-here we go again
+X Y 0 0 0 1st
+
+[>[->+>+<<]>>[-<<+>>]<[-<<->>]>>+<<<<] uses a counter
+NOTE INFINITE LOOP FOR SOME Y IF X IS NOT DIVISIBLE
+
+0 Y 0 0 X/Y
 
 CHR()
 
 oh shit
+
