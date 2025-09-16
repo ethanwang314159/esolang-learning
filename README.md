@@ -6,7 +6,7 @@
 ## Whitespace 
 It's hard (to read).  
 Learnt using [tutorial](https://hackage.haskell.org/package/whitespace-0.4/src/docs/tutorial.html) and [compiler](https://naokikp.github.io/wsi/whitespace.html).  
-Ran in terminal using [pip](https://pypi.org/project/whitespace/)  
+Ran in terminal using [pip install whitespace](https://pypi.org/project/whitespace/)  
 ```bash
 pip install whitespace
 ```
