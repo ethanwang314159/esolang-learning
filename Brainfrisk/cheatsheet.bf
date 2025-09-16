@@ -27,4 +27,23 @@ X+Y 0 1st
 
 SUBTRACTION
 
+X Y 1st
+X-Y 0 1st
+,>,< save input to 1 and 2
+>[<->-]<
 
+MULTIPLICATION
+
+X Y 1st
+X*Y 0 1st
+,>,< save input to 1 and 2
+[->[->+>+<<]>>[-<<+>>]<<<] HOLY COMPLEXITY jk you just decrease go right copy value then repeat
+>>.
+
+DIVISION
+
+here we go again
+
+CHR()
+
+oh shit
