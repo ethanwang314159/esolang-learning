@@ -3,9 +3,10 @@
 +++++++. l
 . l
 +++. o
->++++++++++++++++++++++++++++++++. move stack pointer right, space
+>++++++++++++++++++++++++++++++++. move stack pointer right space
 <++++++++. move left w
 --------. o
 +++. r
 ------. l 
 --------. d
+>+. !

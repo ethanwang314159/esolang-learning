@@ -15,7 +15,7 @@
 
 >++++ for i in range(4):
 [>++++++++<-] go right add 8 go left decrease
->.
+>. print space
 
-<<++++++++.--------.+++.------.--------.
->>+.
+<<++++++++.--------.+++.------.--------.  go back and print w o r l d
+>>+. go forward and print !
