@@ -1,10 +1,14 @@
->+[->,+][-]< maps out input to 0 input_1 input_2 dot dot dot input_n
-0 0 0   0   0   etc 0   (logn)
-0 1 n_1 n_2 n_3 etc n_n (logn)
++[->,+]< maps out input to 0 input_1 input_2 dot dot dot input_n pos at last in array
 
-[<]> move back to 2nd position
-1st position counts n
-2nd is for copying and looping
+[<]> move to first in array
+[.>] print array ends at 0 after array
 
+0 array 0 0 0
+<[[->+<]>[>]>+<<[<]<]   compute length
 
+0 array 0 0 length_array
+
+++++++++++++++++++++++++++++++++.--------------------------------
+
+>>[>]>++++++++++++++++++++++++++++++++++++++++++++++++.
 
