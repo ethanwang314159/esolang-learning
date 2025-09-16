@@ -44,7 +44,15 @@ BETTER MULTIPLICATION
 X Y 0 0   1st
 0 X 0 X*Y 1st
 ,>,<
-[>[->+>+<<]>[-<+>]<<-] smart things check tests/multiplication.bf for more info
+[>[->+>+<<]>[-<+>]<<-] smart things check tests/multiplication.bf for more info credit https://tech(dot)io/playgrounds/50426/getting-started-with-brainfuck/multiplication
+
+OPTIONAL CLEANSING
+
+0   X 0 X*Y 1st
+X*Y 0 0 0   1st
+
+>[-]>>[-<<<+>>>]<<< credit https://tech(dot)io/playgrounds/50426/getting-started-with-brainfuck/multiplication
+
 
 DIVISION
 
