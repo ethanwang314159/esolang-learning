@@ -43,11 +43,11 @@ X*Y 0 1st
 DIVISION
 
 X Y 0 0 0 1st
+0 Y 0 0 X/Y 1st 
 
+,>,< save input to 1 and 2
 [>[->+>+<<]>>[-<<+>>]<[-<<->>]>>+<<<<] uses a counter
 NOTE INFINITE LOOP FOR SOME Y IF X IS NOT DIVISIBLE
-
-0 Y 0 0 X/Y
 
 CHR()
 
