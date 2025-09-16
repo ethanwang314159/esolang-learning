@@ -1,5 +1,14 @@
 # ESOTERIC LANGUAGE LEARNING
 
+### DOING
+- Brainf*ck
+
+### DONE
+- Whitespace
+
+### TO DO
+- Malbolge
+
 # General resources
 [ASCII table](https://www.ascii-code.com/)
 
