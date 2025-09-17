@@ -2,7 +2,6 @@
 
 ### DOING
 - Brainf*ck
-- Spoon
 
 ### DONE
 - Whitespace
