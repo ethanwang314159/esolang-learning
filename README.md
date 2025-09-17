@@ -26,3 +26,9 @@ Ran in terminal using [bf-cli](https://github.com/aapzu/bf-cli).
 More learning using [Basics of BF](https://gist.github.com/roachhd/dce54bec8ba55fb17d3a)  
 Very comprehensive 13 lessons by [DPAmar](https://tech.io/users/1962352/DPAmar) on tech.io, lesson 1 [here](https://tech.io/playgrounds/50426/getting-started-with-brainfuck/welcome)  
 [Very good gist](https://gist.github.com/roachhd/dce54bec8ba55fb17d3a)
+I'm trying to:  
+- code something where you input two numbers and a function (+/-/*///) and it will do that e.g. (3\*2) returning 6
+- solve leetcode problems such as palindrome checking an input string, and prime number checking, and fibonacci and decimal inputs
+- base conversion
+- calculate pi
+- a game like good game idk with random etc
