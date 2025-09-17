@@ -12,6 +12,7 @@
 - Onoz
 - You are reading the name of this esolang
 - https://esolangs.org/wiki/Esoteric_programming_language
+- write something with [pygyat](https://github.com/shamith09/pygyat)
 - ~~Malbolge~~ never mind thats not happening
 
 # General resources
