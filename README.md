@@ -32,3 +32,4 @@ I'm trying to:
 - base conversion
 - calculate pi
 - a game like good game idk with random etc
+- interpreter/compiler
