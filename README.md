@@ -33,3 +33,4 @@ I'm trying to:
 - calculate pi
 - a game like good game idk with random etc
 - interpreter/compiler
+- fibonnaci, pascal triangle numbers
