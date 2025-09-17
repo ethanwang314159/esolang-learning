@@ -17,8 +17,8 @@ length_array 0 array 0
 [>] goes to 0 after array
 
 now time to turn
-length_array 0 array 0 last position
+length_array 0 array 0                 last position
 to
-length_array 0 array 0 backwards array
+length_array 0 array 0 backwards array last position
 
 
