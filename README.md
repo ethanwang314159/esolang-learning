@@ -13,6 +13,10 @@
 - You are reading the name of this esolang
 - https://esolangs.org/wiki/Esoteric_programming_language
 - write something with [pygyat](https://github.com/shamith09/pygyat)
+- [asdf](https://esolangs.org/wiki/Asdf)
+- [EXCON](https://esolangs.org/wiki/EXCON)
+- [123](https://esolangs.org/wiki/123)
+
 - ~~Malbolge~~ never mind thats not happening
 
 # General resources
