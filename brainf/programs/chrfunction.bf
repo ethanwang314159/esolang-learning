@@ -1,5 +1,7 @@
 >,
 
+CURRENTLY NEEDS INFINITE CELLS pls optimise or smth
+
 0 X 0 0 etc
 needs more 0s the larger X is 
 log X 0s are required
