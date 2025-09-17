@@ -2,12 +2,17 @@
 
 ### DOING
 - Brainf*ck
+- Spoon
 
 ### DONE
 - Whitespace
 
 ### TO DO
-- Malbolge
+- Brainhype
+- Onoz
+- You are reading the name of this esolang
+- https://esolangs.org/wiki/Esoteric_programming_language
+- ~~Malbolge~~ never mind thats not happening
 
 # General resources
 [ASCII table](https://www.ascii-code.com/)
