@@ -4,11 +4,11 @@
 33
 
 +++++++ for i in range(6):
-[>++++++++++++<-] go to right cell, add 12, go back to first cell, decrease number
+[>++++++++++++<-] go to right cell add 12 go back to first cell, decrease number
 >. go right and print 72/H
 
 <++++ for i in range(3):
-[>++++++++++<-] go to right cell, add 10, go back to first cell, decrease number
+[>++++++++++<-] go to right cell add 10 go back to first cell decrease number
 >-. go right decrease print 101/e
 
 +++++++..+++. print llo
@@ -18,4 +18,9 @@
 >. print space
 
 <<++++++++.--------.+++.------.--------.  go back and print w o r l d
->>+. go forward and print !
+>>+.-.> go forward and print ! and space
+
+also known as 
+,+++++++[>++++++++++++<-],>.<++++[>++++++++++<-]>-.+++++++..+++.>++++[>++++++++<-]>.<<++++++++.--------.+++.------.--------.>>+.
+
+this is weird code idk why the commas are necessary but they are
