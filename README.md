@@ -39,3 +39,11 @@ I'm trying to:
 - a game like good game idk with random etc
 - interpreter/compiler
 - fibonnaci, pascal triangle numbers
+
+## EXCON
+It was hard to set up the interpreter because I've never done that before. Anyways my .bat setup only works on windows and it's kind of scuffed but you just go to the excon folder path and use .\excon [script] and since it can be any file extension, I used some funny extensions.  
+It literally can only print ASCII characters and that's it. It can't even take inputs. Like idk what to do with it other than print everything.  
+
+I used the ruby interpreter from the [esolang article](https://esolangs.org/wiki/EXCON#Interpreter) and used that to learn.
+I then wrote a simple python script which takes an input and converts it to EXCON and then used questionable programming practices to condense it to one line.  
+Then I messed around with it and became a ruby programmer.
