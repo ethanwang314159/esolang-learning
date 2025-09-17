@@ -1,2 +1,2 @@
 @echo off
-ruby excon/excon_interpreter.rb %1
+ruby excon_interpreter.rb %1
