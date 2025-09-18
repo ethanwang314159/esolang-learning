@@ -36,7 +36,7 @@ I'm trying to:
 - solve leetcode problems such as palindrome checking an input string, and prime number checking, and fibonacci and decimal inputs
 - base conversion
 - calculate pi and output infinite digits and e 
-- a game like good game idk with random etc
+- a game like good game idk with random etc (for this i need to decimal input aka 001-225 and y and n and takex inputs and random number 1 to x decided by input)
 - interpreter/compiler
 - fibonnaci, pascal triangle numbers
 - brainfk interpreter in python pls because inputs are bugged with bf-cli
