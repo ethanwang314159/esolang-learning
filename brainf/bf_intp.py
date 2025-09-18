@@ -66,4 +66,4 @@ if __name__ == "__main__":
         with open(sys.argv[1], 'r') as file:
             print(bf(file.read()))
     else:
-        print("Usage: python3 bf_intp.py [file]")
+        print("Usage: python bf_intp.py [file]")
