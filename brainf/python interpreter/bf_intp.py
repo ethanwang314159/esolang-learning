@@ -37,19 +37,17 @@ def bf(code):
             if tape[tickerpos] == 0:
                     # find matching ]
                     count = 1
-                    j = i
+                    i
                     while count > 0:
-                        
-                        j += 1
-                        if code[j] == "[":
+                        i += 1
+                        if code[i] == "[":
                             count += 1
-                        elif code[j] == "]":
+                        elif code[i] == "]":
                             count -= 1
         elif char == ']':
             if tape[tickerpos] != 0:
                     # find matching [
                     count = 1
-                    i
                     while count > 0:
                         i -= 1
                         if code[i] == "]":
