@@ -1,4 +1,5 @@
 import sys
+import random
 def bf(code):
     output = ""
     num_zeros = 100  
@@ -6,7 +7,7 @@ def bf(code):
     tickerpos = 0
 
     def remove_non_commands(code):
-        commands = set("><+-.,[]")
+        commands = set("><+-.,[]?")
         return ''.join(c for c in code if c in commands)
     
     i = 0
@@ -25,6 +26,8 @@ def bf(code):
             tape[tickerpos] = (tape[tickerpos] + 1) % 256
         elif char == '-':
             tape[tickerpos] = (tape[tickerpos] - 1) % 256
+        elif char == '?':
+            tape[tickerpos] = random.randint(0, 255)
         elif char == '.':
             output += chr(tape[tickerpos])
         elif char == ',':
