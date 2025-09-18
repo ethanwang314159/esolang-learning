@@ -1,6 +1,6 @@
 import sys
-def bf(input):
-
+def bf(code):
+    output = ""
     num_zeros = 100  
     tape = [0] * num_zeros
     tickerpos = 0
@@ -8,8 +8,7 @@ def bf(input):
     def remove_non_commands(code):
         commands = set("><+-.,[]")
         return ''.join(c for c in code if c in commands)
-
-    code = remove_non_commands(input("> "))
+    
     i = 0
     while i < len(code):
         char = code[i]
@@ -27,7 +26,7 @@ def bf(input):
         elif char == '-':
             tape[tickerpos] = (tape[tickerpos] - 1) % 256
         elif char == '.':
-            print(chr(tape[tickerpos]), end='')
+            output += chr(tape[tickerpos])
         elif char == ',':
             inp = input()
             if inp:
@@ -60,6 +59,7 @@ def bf(input):
         else:
             pass
         i += 1
+    return output
 
 if __name__ == "__main__":
     if len(sys.argv) > 1:
