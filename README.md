@@ -50,3 +50,5 @@ It literally can only print ASCII characters and that's it. It can't even take i
 I used the ruby interpreter from the [esolang article](https://esolangs.org/wiki/EXCON#Interpreter) and used that to learn.
 I then wrote a simple python script which takes an input and converts it to EXCON and then used questionable programming practices to condense it to one line.  
 Then I messed around with it and became a ruby programmer.
+
+# Duocuokie is cool
