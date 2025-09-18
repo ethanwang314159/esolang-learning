@@ -1,7 +1,6 @@
 import sys
 import random
 def bf(code):
-    output = ""
     num_zeros = 100  
     tape = [0] * num_zeros
     tickerpos = 0
@@ -29,7 +28,7 @@ def bf(code):
         elif char == '?':
             tape[tickerpos] = random.randint(0, 255)
         elif char == '.':
-            output += chr(tape[tickerpos])
+            print(chr(tape[tickerpos]), end='')
         elif char == ',':
             inp = input()
             if inp:
@@ -60,11 +59,10 @@ def bf(code):
         else:
             pass
         i += 1
-    return output
 
 if __name__ == "__main__":
     if len(sys.argv) > 1:
         with open(sys.argv[1], 'r') as file:
-            print(bf(file.read()))
+            bf(file.read())
     else:
         print("Usage: python bf_intp.py [file]")
