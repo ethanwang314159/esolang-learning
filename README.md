@@ -12,6 +12,7 @@
 - write something with [pygyat](https://github.com/shamith09/pygyat)
 - asdf and 123
 - LOLCAT
+- Befunge
 - ~~Malbolge~~ never mind thats not happening
 
 # General resources
