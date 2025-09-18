@@ -11,6 +11,7 @@
 - https://esolangs.org/wiki/Esoteric_programming_language
 - write something with [pygyat](https://github.com/shamith09/pygyat)
 - asdf and 123
+- LOLCAT
 - ~~Malbolge~~ never mind thats not happening
 
 # General resources
@@ -34,7 +35,7 @@ I'm trying to:
 - code something where you input two numbers and a function (+/-/*///) and it will do that e.g. (3\*2) returning 6
 - solve leetcode problems such as palindrome checking an input string, and prime number checking, and fibonacci and decimal inputs
 - base conversion
-- calculate pi
+- calculate pi and output infinite digits and e 
 - a game like good game idk with random etc
 - interpreter/compiler
 - fibonnaci, pascal triangle numbers
