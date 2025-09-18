@@ -39,6 +39,7 @@ I'm trying to:
 - interpreter/compiler
 - fibonnaci, pascal triangle numbers
 - brainfk interpreter in python pls because inputs are bugged with bf-cli
+- add a ? random command for 0-255 random number generator
 
 ## EXCON
 It was hard to set up the interpreter because I've never done that before. Anyways my .bat setup only works on windows and it's kind of scuffed but you just go to the excon folder path and use .\excon [script] and since it can be any file extension, I used some funny extensions.  
