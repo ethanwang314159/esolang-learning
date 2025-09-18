@@ -7,8 +7,10 @@ def remove_non_commands(code):
     return ''.join(c for c in code if c in commands)
 
 code = remove_non_commands(input("> "))
-for i in range(len(code)):
+i = 0
+while i < len(code):
     char = code[i]
+    
     if char == '>':
         tickerpos += 1
         if tickerpos >= num_zeros:
@@ -33,8 +35,9 @@ for i in range(len(code)):
         if tape[tickerpos] == 0:
                 # find matching ]
                 count = 1
+                j = i
                 while count > 0:
-                    j = i
+                    
                     j += 1
                     if code[j] == "[":
                         count += 1
@@ -44,14 +47,13 @@ for i in range(len(code)):
         if tape[tickerpos] != 0:
                 # find matching [
                 count = 1
+                i
                 while count > 0:
-                    j = i
-                    j -= 1
-                    if code[j] == "]":
+                    i -= 1
+                    if code[i] == "]":
                         count += 1
-                    elif code[j] == "[":
+                    elif code[i] == "[":
                         count -= 1
     else:
         pass
-    print("i: {}, input[i]: {}, memory: {}, pointer: {}".format(i, code[i], tape, tickerpos))
-
+    i += 1
