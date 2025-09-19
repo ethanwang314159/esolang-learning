@@ -6,7 +6,7 @@ def bf(code):
     tickerpos = 0
 
     def remove_non_commands(code):
-        commands = set("><+-.,[]?")
+        commands = list("><+-.,[]?")
         return ''.join(c for c in code if c in commands)
     
     i = 0
