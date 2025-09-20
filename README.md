@@ -11,7 +11,7 @@
 - https://esolangs.org/wiki/Esoteric_programming_language
 - write something with [pygyat](https://github.com/shamith09/pygyat)
 - asdf and 123
-- LOLCAT
+- LOLCODE
 - Befunge
 - ~~Malbolge~~ never mind thats not happening
 
