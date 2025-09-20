@@ -4,7 +4,7 @@ const Befunge = require('befunge93');
 const filePath = process.argv[2];
 
 if (!filePath) {
-    console.log("Please provide a Befunge file.");
+    console.log("Usage: node befintp.js <PATH-TO-FILE>");
     process.exit(1);
 }
 
@@ -18,7 +18,7 @@ fs.readFile(filePath, 'utf8', (err, data) => {
 
     befunge.run(data)
         .then((output) => {
-            console.log("Output:", output);
+            console.log(output);
         })
         .catch((err) => {
             console.error("Error running Befunge program:", err);
