@@ -16,7 +16,9 @@ trying to beat nelhage com/paste/2014 05 07yfXj8QbV quine bf (10204 characters)
 46 43 62 91 60 45 93
 
 ++++++++++++++++++++[>++>++>+++>+++++>+++>++>+++++<<<<<<<-]>
-
 ++++++>+++>++>--------->>+++++>-------<<<<<<
 
 >....................>>.<.<..>.<..>.<...>.<.....>.<...>.<..>.<.....>>>.......>.>.<<<<.
+<......>.<...>.<..>.>>>.........<<<..<.....>.>>>.......<......<<
+
+wait I think I'm approaching this wrong. I think i need a loop or smth that loops and prints or smth. i give up (for now)
