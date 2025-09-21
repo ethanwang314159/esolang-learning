@@ -1,5 +1,3 @@
-1 symbol input
-
 0 0 0 0 0 0 0 0 0 0 0
 0 A B C D E 0 0 0 0 0
 
