@@ -24,3 +24,11 @@ pls nothing higher than 255 ever, my brain is not big enough to do that
 also how am i gonna do negative numbers!!!
 
 okay so I've decided that it's gonna be two digit number inputs only and ill deal with negative numbers later
+
+## PROGRESS:
+- 2 digit number addition
+
+## Doing next (aka when im procrastinating daydream):
+- two digit subtraction
+- one digit multiplication
+- advanced chr and ord for inputs and outputs - separate function for that for x inputs
