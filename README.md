@@ -12,8 +12,9 @@
 - write something with [pygyat](https://github.com/shamith09/pygyat)
 - asdf and 123
 - LOLCODE
-- Befunge
-- ~~Malbolge~~ never mind thats not happening
+- [Piet](https://esolangs.org/wiki/Piet)
+- Befunge is cool lol
+- ~~Malbolge~~ never mind thats not happening like ill write a brute forcer
 
 # General resources
 [ASCII table](https://www.ascii-code.com/)
