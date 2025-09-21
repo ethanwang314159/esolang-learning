@@ -22,3 +22,5 @@ trying to beat nelhage com/paste/2014 05 07yfXj8QbV quine bf (10204 characters)
 <......>.<...>.<..>.>>>.........<<<..<.....>.>>>.......<......<<
 
 wait I think I'm approaching this wrong. I think i need a loop or smth that loops and prints or smth. i give up (for now)
+
+do mutual quine and reverse quine later

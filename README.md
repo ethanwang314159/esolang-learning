@@ -14,13 +14,13 @@
 - LOLCODE
 - [Piet](https://esolangs.org/wiki/Piet)
 - Befunge is cool lol
-- ~~Malbolge~~ never mind thats not happening like ill write a brute forcer for this probably
+- ~~Malbolge~~ never mind thats not happening like ill write a brute forcer for this probably and an interpreter i guess
 
 # General resources
 [ASCII table](https://www.ascii-code.com/)
 
 ## Whitespace 
-It's hard (to read).  
+It's hard (to read)   
 Learnt using [tutorial](https://hackage.haskell.org/package/whitespace-0.4/src/docs/tutorial.html) and [compiler](https://naokikp.github.io/wsi/whitespace.html).  
 Ran in terminal using [pip install whitespace](https://pypi.org/project/whitespace/)  
 ```bash
@@ -41,6 +41,7 @@ I'm trying to:
 - a game like good game idk with random etc (for this i need to decimal input aka 001-225 and y and n and takex inputs and random number 1 to x decided by input)
 - interpreter/compiler in bf
 - fibonnaci, pascal triangle numbers
+- quine, reverse quine, mutual quine, whatever [this](https://codegolf.stackexchange.com/questions/63669/three-mutual-quines?rq=1) is 
 - ~~brainfk interpreter in python pls because inputs are bugged with bf-cli~~ done
 - ~~add a ? random command for 0-255 random number generator~~ done
 
