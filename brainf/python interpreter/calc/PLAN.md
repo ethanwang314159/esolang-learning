@@ -23,3 +23,4 @@ two symbols in a row means get rid of them and then calculate
 pls nothing higher than 255 ever, my brain is not big enough to do that
 also how am i gonna do negative numbers!!!
 
+okay so I've decided that it's gonna be two digit number inputs only and ill deal with negative numbers later
