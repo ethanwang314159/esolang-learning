@@ -6,6 +6,10 @@ Subtraction (X Y => X-Y 0)
 Multiplication (X Y 0 0=> X*Y 0 0 0)
 Division (X Y 0 )
 
+### like more stuff needed
+chr ord functionality
+infinite array handling
+
 ## USAGE (theoretically)
 input first digit of first number, then next, etc until last
 input symbol
