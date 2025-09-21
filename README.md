@@ -14,7 +14,7 @@
 - LOLCODE
 - [Piet](https://esolangs.org/wiki/Piet)
 - Befunge is cool lol
-- ~~Malbolge~~ never mind thats not happening like ill write a brute forcer
+- ~~Malbolge~~ never mind thats not happening like ill write a brute forcer for this probably
 
 # General resources
 [ASCII table](https://www.ascii-code.com/)
