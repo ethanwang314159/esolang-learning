@@ -13,10 +13,9 @@ DO SWITCH
 STACKTOP MINUS
 STACKTOP F
 
-DO COPY
 OUTPUT N
 
-CONTROl DOWHILE
+CONTROl IF not 0
 more peppermint tea?
 ah yes, it's not bad
 I appreciate peppermint tea
