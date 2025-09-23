@@ -5,7 +5,7 @@
 
 ## NEXT UP
 - [硕鼠](https://esolangs.org/wiki/%E7%A1%95%E9%BC%A0)
-- [/gɹəʊguː/ ](https://esolangs.org/wiki//g%C9%B9%C9%99%CA%8Agu%CB%90/)
+- [/gɹəʊguː/](https://esolangs.org/wiki//g%C9%B9%C9%99%CA%8Agu%CB%90/)
 - [0 bytes XD](https://esolangs.org/wiki/0_bytes_XD) if im lazy and want to just write a bunch of interpreters in different languages
 - [2DFuck](https://esolangs.org/wiki/2DFuck) also [here](https://gitlab.com/TheWastl/2DFuck) if i want to get fucked in 2 dimensions also like i was just wondering about this too the other day lol
 - [acrostic](https://esolangs.org/wiki/Acrostic) looks [very interesting](https://github.com/Mercerenies/acrostic-lang)
@@ -25,6 +25,9 @@
 - 21/09/25 Godot (gdscript i guess??)
 - 22/09/25 Befunge
 - 23/09/25 Bespoke
+
+- 24/09/25 硕鼠
+- 25/09/25 
 
 ## General resources
 [ASCII table](https://www.ascii-code.com/)
