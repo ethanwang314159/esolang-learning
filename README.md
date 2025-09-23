@@ -17,10 +17,7 @@
 - https://esolangs.org/wiki/%E7%A1%95%E9%BC%A0  
 - Malbolge brute forcer  
 
-# General resources
-[ASCII table](https://www.ascii-code.com/)
-
-# DATES FOR LANGUAGE A DAY (yes i can continue learning it after if i want you can't stop me)
+## DATES FOR LANGUAGE A DAY (yes i can continue learning it after if i want you can't stop me)
 - 17/09/25 Whitespace
 - 18/09/25 Brainf*ck
 - 19/09/25 EXCON
@@ -28,7 +25,9 @@
 - 21/09/25 Godot (gdscript i guess??)
 - 22/09/25 Befunge
 - 23/09/25 Bespoke
-  
+
+# General resources
+[ASCII table](https://www.ascii-code.com/)
     
 ## Whitespace 
 It's hard (to read)   
@@ -56,17 +55,31 @@ I'm trying to:
 - ~~brainfk interpreter in python pls because inputs are bugged with bf-cli~~ done
 - ~~add a ? random command for 0-255 random number generator~~ done
 
+[macos](https://formulae.brew.sh/formula/brainfuck)
+```bash
+$ brew install brainfuck
+$ brainfuck lol-optimised.bf
+```
+
+[windows](https://github.com/aapzu/bf-cli)
+```bash
+npx bf-cli lol-optimised.bf
+
+npm i -g bf-cli
+bf-cli lol-optimised.bf
+```
+
 ## EXCON
 It was hard to set up the interpreter because I've never done that before. Anyways my .bat setup only works on windows and it's kind of scuffed but you just go to the excon folder path and use .\excon [script] and since it can be any file extension, I used some funny extensions.  
 It literally can only print ASCII characters and that's it. It can't even take inputs. Like idk what to do with it other than print everything.  
 
-I used the ruby interpreter from the [esolang article](https://esolangs.org/wiki/EXCON#Interpreter) and used that to learn.
+I used the ruby interpreter from the [esolang article](https://esolangs.org/wiki/EXCON#Interpreter) and used that article to learn.
 I then wrote a simple python script which takes an input and converts it to EXCON and then used questionable programming practices to condense it to one line.  
-Then I messed around with it and became a ruby programmer.
+Then I messed around with it and became a ruby programmer(for real).
 
 ## Befunge
 
-WHAT ITS SO COMPLICATED AND COOL
+complicated and cool. problem is its confusing
 Found on [esolangs.org](https://esolangs.org/wiki/Befunge)
 
 ## Bespoke
