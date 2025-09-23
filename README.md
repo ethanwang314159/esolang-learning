@@ -1,13 +1,9 @@
 # ESOTERIC LANGUAGE LEARNING
 
-### TODAY
+## TODAY
 - [Bespoke](https://esolangs.org/wiki/Bespoke)
 
-### DONE
-- [Whitespace](https://esolangs.org/wiki/Whitespace)
-- [EXCON](https://esolangs.org/wiki/EXCON)
-
-### TO DO
+## TO DO
 - [List](https://esolangs.org/wiki/Esoteric_programming_language)
 - [Truth machine list](https://esolangs.org/wiki/Truth-machine#-C++)  
 - [Pygyat](https://github.com/shamith09/pygyat)  
@@ -15,7 +11,7 @@
 - [硕鼠](https://esolangs.org/wiki/%E7%A1%95%E9%BC%A0)  
 - Malbolge brute forcer  
 
-## DATES FOR LANGUAGE A DAY (yes i can and will continue learning it after if i want you can't stop me)
+# DATES FOR LANGUAGE A DAY (yes i can and will continue learning it after if i want you can't stop me)
 - 17/09/25 [Whitespace](https://esolangs.org/wiki/Whitespace)
 - 18/09/25 Brainf*ck
 - 19/09/25 [EXCON](https://esolangs.org/wiki/EXCON)
