@@ -5,7 +5,7 @@
 - LOLCODE
 - malbolge (kinda as in a brute forcer)
 - befunge is cool
-- bespoke
+- [bespoke](https://esolangs.org/wiki/Bespoke#Implementation)
 
 ### DONE
 - Whitespace
