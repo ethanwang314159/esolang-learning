@@ -42,3 +42,6 @@ how negative numbers will be stored:
 every number will be stored like this
 
 0 S 0 N 0
+basically numbers can be -255 to 255 because sign can be 0 for positive and 1 for negative
+
+that's how it will be stored

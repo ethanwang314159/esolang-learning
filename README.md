@@ -13,7 +13,7 @@
 - asdf and 123
 - LOLCODE
 - [Piet](https://esolangs.org/wiki/Piet)
-- Befunge is cool lol
+- Befunge is cool lol lol
 - ~~Malbolge~~ never mind thats not happening like ill write a brute forcer for this probably and an interpreter i guess
 
 # General resources
