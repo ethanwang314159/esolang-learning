@@ -2,6 +2,10 @@
 
 ### DOING
 - Brainf*ck
+- LOLCODE
+- malbolge (kinda as in a brute forcer)
+- befunge is cool
+- bespoke
 
 ### DONE
 - Whitespace
