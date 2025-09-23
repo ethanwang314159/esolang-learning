@@ -54,7 +54,7 @@ def shuoshu_run(parse,preprocess):
             stack.append((parse[cp]-12)%256)
         cp+=1
 def shuoshu(code):
-    parse=shuoshu_parse(shuoshu)
+    parse=shuoshu_parse(code)
     prep=shuoshu_preprocess(parse)
     shuoshu_run(parse,prep)
 def shuoshu_test():
