@@ -11,9 +11,7 @@
 - [List](https://esolangs.org/wiki/Esoteric_programming_language)
 - [Truth machine list](https://esolangs.org/wiki/Truth-machine#-C++)  
 - [Pygyat](https://github.com/shamith09/pygyat)  
-- asdf and 123 (if i really really have no ideas or time)  
-- [Piet](https://esolangs.org/wiki/Piet)  
-- Befunge is cool  
+- asdf and 123 (if i really really have no ideas or time)
 - [硕鼠](https://esolangs.org/wiki/%E7%A1%95%E9%BC%A0)  
 - Malbolge brute forcer  
 
