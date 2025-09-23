@@ -5,7 +5,7 @@ def intp(code):
         return
     if code == '1':
         while True:
-            print('1', end='')
+            print('1')
 
 def intp_test():
     a=sys.argv
