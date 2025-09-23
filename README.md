@@ -4,7 +4,10 @@
 - [Bespoke](https://esolangs.org/wiki/Bespoke)
 
 ## NEXT UP
-- [硕鼠](https://esolangs.org/wiki/%E7%A1%95%E9%BC%A0) 
+- [硕鼠](https://esolangs.org/wiki/%E7%A1%95%E9%BC%A0)
+- [/gɹəʊguː/ ](https://esolangs.org/wiki//g%C9%B9%C9%99%CA%8Agu%CB%90/)
+- [0 bytes XD](https://esolangs.org/wiki/0_bytes_XD) if im lazy and want to just write a bunch of interpreters in different languages
+- [2DFuck](https://esolangs.org/wiki/2DFuck) also [here](https://gitlab.com/TheWastl/2DFuck) if i want to get fucked in 2 dimensions also like i was just wondering about this too the other day lol
 
 ## Do
 - [List](https://esolangs.org/wiki/Esoteric_programming_language)
