@@ -8,16 +8,16 @@
 - [EXCON](https://esolangs.org/wiki/EXCON)
 
 ### TO DO
-- https://esolangs.org/wiki/Esoteric_programming_language  
-- https://esolangs.org/wiki/Truth-machine#-C++  
-- write something with [pygyat](https://github.com/shamith09/pygyat)  
+- [List](https://esolangs.org/wiki/Esoteric_programming_language)
+- [Truth machine list](https://esolangs.org/wiki/Truth-machine#-C++)  
+- [Pygyat](https://github.com/shamith09/pygyat)  
 - asdf and 123 (if i really really have no ideas or time)  
 - [Piet](https://esolangs.org/wiki/Piet)  
 - Befunge is cool  
-- https://esolangs.org/wiki/%E7%A1%95%E9%BC%A0  
+- [硕鼠](https://esolangs.org/wiki/%E7%A1%95%E9%BC%A0)  
 - Malbolge brute forcer  
 
-## DATES FOR LANGUAGE A DAY (yes i can continue learning it after if i want you can't stop me)
+## DATES FOR LANGUAGE A DAY (yes i can and will continue learning it after if i want you can't stop me)
 - 17/09/25 Whitespace
 - 18/09/25 Brainf*ck
 - 19/09/25 EXCON
@@ -26,7 +26,7 @@
 - 22/09/25 Befunge
 - 23/09/25 Bespoke
 
-# General resources
+## General resources
 [ASCII table](https://www.ascii-code.com/)
     
 ## Whitespace 
