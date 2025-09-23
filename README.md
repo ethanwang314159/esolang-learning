@@ -18,16 +18,16 @@
 - Malbolge brute forcer  
 
 # Language a day
-- 17/09/25 [Whitespace](https://esolangs.org/wiki/Whitespace)
+- 17/09/25 Whitespace
 - 18/09/25 Brainf*ck
-- 19/09/25 [EXCON](https://esolangs.org/wiki/EXCON)
+- 19/09/25 EXCON
 - 20/09/25 Malbolge (I tried then gave up)
 - 21/09/25 Godot (gdscript i guess??)
 - 22/09/25 Befunge
 - 23/09/25 Bespoke
 
 - 24/09/25 硕鼠
-- 25/09/25 
+- 25/09/25 0 bytes XD
 
 ## General resources
 [ASCII table](https://www.ascii-code.com/)
