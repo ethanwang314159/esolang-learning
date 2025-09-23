@@ -4,7 +4,7 @@
 - [Bespoke](https://esolangs.org/wiki/Bespoke)
 
 ### DONE
-- Whitespace
+- [Whitespace](https://esolangs.org/wiki/Whitespace)
 - [EXCON](https://esolangs.org/wiki/EXCON)
 
 ### TO DO
@@ -18,10 +18,10 @@
 - Malbolge brute forcer  
 
 ## DATES FOR LANGUAGE A DAY (yes i can and will continue learning it after if i want you can't stop me)
-- 17/09/25 Whitespace
+- 17/09/25 [Whitespace](https://esolangs.org/wiki/Whitespace)
 - 18/09/25 Brainf*ck
-- 19/09/25 EXCON
-- 20/09/25 LOLCODE
+- 19/09/25 [EXCON](https://esolangs.org/wiki/EXCON)
+- 20/09/25 
 - 21/09/25 Godot (gdscript i guess??)
 - 22/09/25 Befunge
 - 23/09/25 Bespoke
