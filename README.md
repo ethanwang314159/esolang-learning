@@ -8,7 +8,7 @@
 - [/gɹəʊguː/ ](https://esolangs.org/wiki//g%C9%B9%C9%99%CA%8Agu%CB%90/)
 - [0 bytes XD](https://esolangs.org/wiki/0_bytes_XD) if im lazy and want to just write a bunch of interpreters in different languages
 - [2DFuck](https://esolangs.org/wiki/2DFuck) also [here](https://gitlab.com/TheWastl/2DFuck) if i want to get fucked in 2 dimensions also like i was just wondering about this too the other day lol
-- [acrostic](https://esolangs.org/wiki/Acrostic) looks very interesting
+- [acrostic](https://esolangs.org/wiki/Acrostic) looks [very interesting](https://github.com/Mercerenies/acrostic-lang)
 
 ## Do
 - [List](https://esolangs.org/wiki/Esoteric_programming_language)

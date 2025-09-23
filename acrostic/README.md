@@ -1,0 +1,1 @@
+this interpreter was stolen from https://github.com/WinslowJosiah/acrostic-py
