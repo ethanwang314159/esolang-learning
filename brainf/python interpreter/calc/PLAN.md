@@ -36,3 +36,9 @@ okay so I've decided that it's gonna be two digit number inputs only and ill dea
 - two digit subtraction
 - one digit multiplication
 - advanced chr and ord for inputs and outputs - separate function for that for x inputs
+
+
+how negative numbers will be stored:
+every number will be stored like this
+
+0 S 0 N 0
