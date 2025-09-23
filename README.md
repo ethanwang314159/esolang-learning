@@ -111,3 +111,11 @@ i forgot if its turing complete [check yourself](https://github.com/WinslowJosia
 pip install --upgrade bespokelang
 bespoke truth.bspk
 ```
+
+## Shuoshu
+wow I learnt off the interpreter lol
+I made a hi, infcat, one character cat and then read the wiki
+I was like how does this program take infinite inputs and output it so I looked at the wiki lols
+[wiki](https://esolangs.org/wiki/%E7%A1%95%E9%BC%A0)
+[wiki explanation of example programs](https://esolangs.org/wiki/A_brief_explaination_of_the_%E7%A1%95%E9%BC%A0_example_programs)
+Interpreter stolen and then edited from [none-None1](https://github.com/none-None1/shuoshu/blob/main/shuoshu.py)
