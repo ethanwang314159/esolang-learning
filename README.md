@@ -17,6 +17,17 @@
 - asdf and 123 (if i really really have no ideas or time)
 - [0 bytes XD](https://esolangs.org/wiki/0_bytes_XD), [9 bytes :I](https://esolangs.org/wiki/9_bytes_:I), [7 bytes XD](https://esolangs.org/wiki/7_bytes_XD), [16 bytes :P](https://esolangs.org/wiki/16_bytes_:P), [25 bytes o:](https://esolangs.org/wiki/25_bytes_o:)
 
+## Ideas for programs
+- HI
+- Hello, world!
+- Addition/Subtraction/Multiplication/Division/Squared
+- Truth Machine
+- 0 7 9 16 25 bytes interpreter lmao
+- python that turns input into code that prints that as output
+- run that through itself lol
+- calculator
+- Quine
+
 # Language a day
 - 17/09/25 Whitespace
 - 18/09/25 Brainf*ck
