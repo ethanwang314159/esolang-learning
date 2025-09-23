@@ -86,10 +86,10 @@ Then I messed around with it and became a ruby programmer(for real).
 
 If you want to run this yourself uh don't. It's not very satisfying anyways.
 
-# Malbolge
+## Malbolge
 I don't want to talk about it.
 
-# Godot
+## Godot
 Followed for ten episodes, coded for 6 hours in that day(though I did do a lot of BF).
 [Download](https://godotengine.org/download/)
 
