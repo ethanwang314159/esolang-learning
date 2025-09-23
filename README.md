@@ -1,10 +1,6 @@
 # ESOTERIC LANGUAGE LEARNING
 
-### DOING
-- Brainf*ck
-- LOLCODE
-- malbolge (kinda as in a brute forcer)
-- befunge is cool
+### TODAY
 - [bespoke](https://esolangs.org/wiki/Bespoke)
 
 ### DONE
@@ -12,14 +8,14 @@
 - [EXCON](https://esolangs.org/wiki/EXCON)
 
 ### TO DO
-- https://esolangs.org/wiki/Esoteric_programming_language
-- write something with [pygyat](https://github.com/shamith09/pygyat)
-- asdf and 123
-- LOLCODE
-- [Piet](https://esolangs.org/wiki/Piet)
-- Befunge is cool lol lol
-- https://esolangs.org/wiki/%E7%A1%95%E9%BC%A0
-- ~~Malbolge~~ never mind thats not happening like ill write a brute forcer for this probably and an interpreter i guess
+- https://esolangs.org/wiki/Esoteric_programming_language  
+- https://esolangs.org/wiki/Truth-machine#-C++  
+- write something with [pygyat](https://github.com/shamith09/pygyat)  
+- asdf and 123 (if i really really have no ideas or time)  
+- [Piet](https://esolangs.org/wiki/Piet)  
+- Befunge is cool  
+- https://esolangs.org/wiki/%E7%A1%95%E9%BC%A0  
+- Malbolge brute forcer  
 
 # General resources
 [ASCII table](https://www.ascii-code.com/)
@@ -32,7 +28,8 @@
 21/09/25 Godot (gdscript i guess??)
 22/09/25 Befunge
 23/09/25 Bespoke
-
+  
+    
 ## Whitespace 
 It's hard (to read)   
 Learnt using [tutorial](https://hackage.haskell.org/package/whitespace-0.4/src/docs/tutorial.html) and [compiler](https://naokikp.github.io/wsi/whitespace.html).  
