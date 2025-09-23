@@ -71,15 +71,24 @@ I used the ruby interpreter from the [esolang article](https://esolangs.org/wiki
 I then wrote a simple python script which takes an input and converts it to EXCON and then used questionable programming practices to condense it to one line.  
 Then I messed around with it and became a ruby programmer(for real).
 
+If you want to run this yourself uh don't. It's not very satisfying anyways.
+
 # Malbolge
 I don't want to talk about it.
 
 # Godot
 Followed for ten episodes, coded for 6 hours in that day(though I did do a lot of BF).
+[Download](https://godotengine.org/download/)
 
 ## Befunge
 complicated and cool. problem is its confusing
 Found on [esolangs.org](https://esolangs.org/wiki/Befunge)
+
+Using befintp.js:
+```bash
+npm install befunge
+node befintp.js hello.bf
+```
 
 ## Bespoke
 wow made in 2025
