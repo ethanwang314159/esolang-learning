@@ -1,7 +1,7 @@
 # ESOTERIC LANGUAGE LEARNING
 
 ### TODAY
-- [bespoke](https://esolangs.org/wiki/Bespoke)
+- [Bespoke](https://esolangs.org/wiki/Bespoke)
 
 ### DONE
 - Whitespace
@@ -21,13 +21,13 @@
 [ASCII table](https://www.ascii-code.com/)
 
 # DATES FOR LANGUAGE A DAY (yes i can continue learning it after if i want you can't stop me)
-17/09/25 Whitespace
-18/09/25 Brainf*ck
-19/09/25 EXCON
-20/09/25 LOLCODE
-21/09/25 Godot (gdscript i guess??)
-22/09/25 Befunge
-23/09/25 Bespoke
+- 17/09/25 Whitespace
+- 18/09/25 Brainf*ck
+- 19/09/25 EXCON
+- 20/09/25 LOLCODE
+- 21/09/25 Godot (gdscript i guess??)
+- 22/09/25 Befunge
+- 23/09/25 Bespoke
   
     
 ## Whitespace 
