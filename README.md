@@ -3,7 +3,7 @@
 ## TODAY
 - [Bespoke](https://esolangs.org/wiki/Bespoke)
 
-## TO DO
+## do
 - [List](https://esolangs.org/wiki/Esoteric_programming_language)
 - [Truth machine list](https://esolangs.org/wiki/Truth-machine#-C++)  
 - [Pygyat](https://github.com/shamith09/pygyat)  
@@ -11,7 +11,7 @@
 - [硕鼠](https://esolangs.org/wiki/%E7%A1%95%E9%BC%A0)  
 - Malbolge brute forcer  
 
-# DATES FOR LANGUAGE A DAY (yes i can and will continue learning it after if i want you can't stop me)
+# Language a day
 - 17/09/25 [Whitespace](https://esolangs.org/wiki/Whitespace)
 - 18/09/25 Brainf*ck
 - 19/09/25 [EXCON](https://esolangs.org/wiki/EXCON)
@@ -71,11 +71,23 @@ I used the ruby interpreter from the [esolang article](https://esolangs.org/wiki
 I then wrote a simple python script which takes an input and converts it to EXCON and then used questionable programming practices to condense it to one line.  
 Then I messed around with it and became a ruby programmer(for real).
 
-## Befunge
+# Malbolge
+I don't want to talk about it.
 
+# Godot
+Followed for ten episodes, coded for 6 hours in that day(though I did do a lot of BF).
+
+## Befunge
 complicated and cool. problem is its confusing
 Found on [esolangs.org](https://esolangs.org/wiki/Befunge)
 
 ## Bespoke
-
 wow made in 2025
+very cool I will probably do this more tomorrow and future
+basically everything is based on word length and theres A LOT OF COMMANDS
+i forgot if its turing complete [check yourself](https://github.com/WinslowJosiah/bespokelang)
+
+```bash
+pip install --upgrade bespokelang
+bespoke truth.bspk
+```
