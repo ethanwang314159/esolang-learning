@@ -1,0 +1,11 @@
+bf = input("> ")
+bf = '!x' + bf
+bf = bf.replace('>', 'vvr!xr')
+bf = bf.replace('<', '^^r!xr')
+tbf = bf.replace('.', 'v>r.>r.>r.>r.>r.>r.>r.>r.^r![<r!]!')
+tbf = tbf.replace(',', 'v>rx,x>rx,x>rx,x>rx,x>rx,x>rx,x>rx,x>rx,x^r![<r!]!')
+tbf = tbf.replace('+', 'v>>>>>>>>xr![<xr!]^r![<r!]vrx^r')
+tbf = tbf.replace('-', 'vx>>>>>>>>xr[<xr]^r![<r!]vrx^r')
+tdf = tbf.replace('[', 'vx>>>>>>>>r![<r!]^r![[<r!]!vx^')
+tdf = tdf.replace(']', 'vx>>>>>>>>r![<r!]^r!]v!x^')
+print(tdf)

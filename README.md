@@ -142,3 +142,6 @@ then I wrote a quine (0)
 ## Acrostic
 This is confusing and hard to write in
 how do i link it back to the begin :Cry:
+
+## 2DFuck
+wow its turing complete
