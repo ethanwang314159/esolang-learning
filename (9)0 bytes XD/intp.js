@@ -5,7 +5,16 @@ const rl = readline.createInterface({
     output: process.stdout
 });
 
-rl.question('What is your favorite color? ', (answer) => {
-    console.log(`Your favorite color is: ${answer}`);
+rl.question('Input code > ', (answer) => {
+    if (code === '0') {
+        console.log('0');
+        return;
+    } 
+    if (code == '1') {
+        while (true) {
+            console.log('1');
+        }
+        return;
+    }
     rl.close();
 });
