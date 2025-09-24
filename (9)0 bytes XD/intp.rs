@@ -7,7 +7,6 @@ fn main() {
         .read_line(&mut user_input)
         .expect("Failed to read line"); 
     let input = user_input.trim();
-    
     if input == "0" {
         println!("0");
     }
