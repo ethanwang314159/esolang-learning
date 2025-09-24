@@ -14,7 +14,6 @@ rl.question('Input code > ', (answer) => {
         while (true) {
             console.log('1');
         }
-        return;
     }
     rl.close();
 });
