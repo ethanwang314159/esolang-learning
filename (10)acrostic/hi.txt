@@ -3,17 +3,17 @@
      A   A   A   A    S
      L   T   L   T    S
      L   STALL   STALLED
-     I                N
-     N                G
-  HANGING             N
-       U              I
+     I               N
+     N               G
+  HANGING            N
+       U             I
    STALLING          H
-         O           T
+       L O           T
          T           O
          H           NOTHINGNESS
         BEGIN            A
-        S  O            N
-        S  T   P     HUNG
+            O            N
+            T   P     HUNG
             HUNDRED   A  S
             I   I     N
             N   NOTHING
