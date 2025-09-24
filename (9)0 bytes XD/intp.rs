@@ -1,11 +1,10 @@
 use std::io; 
 
 fn main() {
-    
     println!("Please enter some text:"); 
     let mut user_input = String::new();
     io::stdin()
-        .read_line(&mut user_input) // Read a line from stdin into user_input
+        .read_line(&mut user_input)
         .expect("Failed to read line"); 
     let input = user_input.trim();
     
