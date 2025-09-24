@@ -1,3 +1,3 @@
 ,>++++++++[<------>-]<[>++++++++[<++++++>-]<[.][-]]
 
-this is just a truth machine btw
+this is just a truth machine btwt
