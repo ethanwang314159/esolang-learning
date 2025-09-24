@@ -17,4 +17,4 @@
          HUNDRED   A
          I   I     N
          N   NOTHING
-         G   T
+         G   T     S
