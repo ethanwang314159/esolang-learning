@@ -30,19 +30,19 @@
 - Quine
 
 # Language a day
-- 17/09/25 Whitespace
-- 18/09/25 Brainf*ck
-- 19/09/25 EXCON
-- 20/09/25 Malbolge (I tried then gave up)
-- 21/09/25 Godot (gdscript I guess)
-- 22/09/25 Befunge
-- 23/09/25 Bespoke
-- 24/09/25 硕鼠
-- 
-- 25/09/25 0 bytes XD (cheat day I guess lol but I'll do acrostic too)
-- 26/09/25 acrostic
-- 27/09/25 2DFuck
-- 28/09/25 Chef
+- 17/09/25 (1) Whitespace
+- 18/09/25 (2) Brainf*ck
+- 19/09/25 (3) EXCON
+- 20/09/25 (4) Malbolge (I tried then gave up)
+- 21/09/25 (5) Godot (gdscript I guess)
+- 22/09/25 (6) Befunge
+- 23/09/25 (7) Bespoke
+- 24/09/25 (8) 硕鼠
+-  
+- 25/09/25 (9) 0 bytes XD (cheat day I guess lol but I'll do acrostic too)
+- 26/09/25 (10) acrostic
+- 27/09/25 (11) 2DFuck
+- 28/09/25 (12) Chef
 
 ## General resources
 [ASCII table](https://www.ascii-code.com/)
