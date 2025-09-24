@@ -40,7 +40,7 @@
 - 24/09/25 (8) 硕鼠
 -  
 - 25/09/25 (9) 0 bytes XD (cheat day I guess lol but I'll do acrostic too)
-- 26/09/25 (10) acrostic
+- 26/09/25 (10) acrostic 
 - 27/09/25 (11) 2DFuck
 - 28/09/25 (12) Chef
 
@@ -132,3 +132,13 @@ I was like how does this program take infinite inputs and output it so I looked 
 [wiki](https://esolangs.org/wiki/%E7%A1%95%E9%BC%A0)
 [wiki explanation of example programs](https://esolangs.org/wiki/A_brief_explaination_of_the_%E7%A1%95%E9%BC%A0_example_programs)
 Interpreter stolen and then edited from [none-None1](https://github.com/none-None1/shuoshu/blob/main/shuoshu.py)
+
+## 0 Bytes XD
+lmao its funny 
+so its just a truth machine and any programs other than 0 and 1 are undocumented
+therefore I wrote an interpreter in python javascript rust and brainfuck
+then I wrote a quine (0)
+
+## Acrostic
+This is confusing and hard to write in
+how do i link it back to the begin :Cry:
