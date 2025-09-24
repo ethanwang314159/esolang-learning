@@ -1,20 +1,20 @@
-  STALL   STALLED
-  T   L   T    L
-  A   A   A    A   S
-  N   T   L    T   S
-  D   STALL   STALLED
-  B                N
-  YTPME            G
-      M            N
-      P            I
-      T            H
-      I            T
-      N            O
-      E            NOTHINGNESS
-     BEGIN            A
-      S  O            N
-      S  T   P     HUNG
-         HUNDRED   A  S
-         I   I     N
-         N   NOTHING
-         G   T     S
+     STALL   STALLED
+     T   L   T   L
+     A   A   A   A    S
+     L   T   L   T    S
+     L   STALL   STALLED
+     I                N
+     N                G
+  HANGING             N
+       U              I
+   STALLING          H
+         O           T
+         T           O
+         H           NOTHINGNESS
+        BEGIN            A
+        S  O            N
+        S  T   P     HUNG
+            HUNDRED   A  S
+            I   I     N
+            N   NOTHING
+            G   T     S
