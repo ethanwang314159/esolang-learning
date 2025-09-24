@@ -11,7 +11,7 @@ fn main() {
         println!("0");
     }
     if input == "1" {
-        while 7 == 7 {
+        while True {
             println!("1");
         }
     }
