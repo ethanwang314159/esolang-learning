@@ -1,12 +1,12 @@
-
-     T   L   T      
-     A   A   A        S
-     L   T   L        S
-     L   STALL   STALLED
+     S    
+     T              
+     A                S
+     L                S
+     L           STALLED
      I           T    N
      N         STALL  G
   HANGING        L    N
-       U              I
+       U         L    I
    STALLING           H
        L O            T
          T            O
