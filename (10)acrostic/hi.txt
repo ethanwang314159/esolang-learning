@@ -5,15 +5,16 @@
   D   STALL   STALLED
   B                N
   YTPME            G
+                   N
+                   I
                    H
                    T
                    O
-                   N
-                  NOTHINGNESS
-    BEGIN            A
-        O            N
-        T   P     HUNG
-        HUNDRED   A
-        I   I     N
-        N   NOTHING
-        G   T
+                   NOTHINGNESS
+     BEGIN            A
+         O            N
+         T   P     HUNG
+         HUNDRED   A
+         I   I     N
+         N   NOTHING
+         G   T
