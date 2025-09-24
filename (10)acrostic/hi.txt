@@ -1,16 +1,16 @@
-     STALL   STALLED
-     T   L   T   L
-     A   A   A   A    S
-     L   T   L   T    S
+
+     T   L   T   L  S
+     A   A   A   A  T S
+     L   T   L   T  A S
      L   STALL   STALLED
-     I               N
-     N               G
-  HANGING            N
-       U             I
-   STALLING          H
-       L O           T
-         T           O
-         H           NOTHINGNESS
+     I              L N
+     N                G
+  HANGING             N
+       U              I
+   STALLING           H
+       L O            T
+         T            O
+         H            NOTHINGNESS
         BEGIN            A
             O            N
             T   P     HUNG
