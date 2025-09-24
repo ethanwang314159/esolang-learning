@@ -1,4 +1,5 @@
 2dfuck.py, remove_comments.py, and strto2dfuck.py are all stolen from https://gitlab.com/TheWastl/2DFuck
+I then converted them from python 2 to python 3
 brainfuckto2dfuck.py, strtobrainfuckto2dfuck.py, and .2f files are all original
 
 also taken from https://gitlab.com/TheWastl/2DFuck : 
